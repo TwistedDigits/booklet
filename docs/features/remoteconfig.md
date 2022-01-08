@@ -1,5 +1,5 @@
 ## Configuration file 
-The configuration can be sent to the device as a file that can by imported into the apps. This can be used to initially configure the device or chane detailed settings later. 
+The configuration can be sent to the device as a file that can by imported into the apps. This can be used to initially configure the device or change detailed settings later. 
  
 * Create a configuration file in JSON with an `.otrc` suffix (for OwnTracks Configuration)
 * Ensure the JSON is valid with [online JSON validator](http://jsonlint.com), [jq](http://stedolan.github.io/jq/) or simply by running `python -mjson.tool < your.otrc`
